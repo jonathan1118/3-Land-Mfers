@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x53A726312c6D066E02eF6179818d844839e2878c",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x53a726312c6d066e02ef6179818d844839e2878c",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "3Land Mfers",
+  "SYMBOL": "3landmfer",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/3land-mfers-v2",
+  "SHOW_BACKGROUND": true
+}
