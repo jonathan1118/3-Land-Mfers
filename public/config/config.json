@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x53A726312c6D066E02eF6179818d844839e2878c",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x53a726312c6d066e02ef6179818d844839e2878c",
+  "CONTRACT_ADDRESS": "0x17829F71069123dBB230F35492003D8e6F17Ebe2",
+  "SCAN_LINK": "https://etherscan.io/address/0x17829f71069123dbb230f35492003d8e6f17ebe2",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Mainnet",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
-  "NFT_NAME": "3Land Mfers",
+  "NFT_NAME": "3Land Mfers NFT",
   "SYMBOL": "3landmfer",
-  "MAX_SUPPLY": 20,
+  "MAX_SUPPLY": 9999,
   "WEI_COST": 10000000000000000,
   "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/3land-mfers-v2",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/3land-mfers-nft",
   "SHOW_BACKGROUND": true
 }
