@@ -261,8 +261,8 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "black" }}
                 >
-                   {CONFIG.DISPLAY_COST}{" "}
-                  {CONFIG.NETWORK.SYMBOL} per {CONFIG.SYMBOL}
+                   {"FREE"}
+                  
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.SpacerSmall />
