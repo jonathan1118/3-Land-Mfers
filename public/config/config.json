@@ -10,7 +10,7 @@
   "SYMBOL": "3landmfer",
   "MAX_SUPPLY": 9999,
   "WEI_COST": 10000000000000000,
-  "DISPLAY_COST": 0.01,
+  "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/3land-mfers-nft",
